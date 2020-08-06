@@ -1,0 +1,13 @@
+/home/joaopaulo/.vscode/files/chess/bin/Debug/netcoreapp3.1/chess
+/home/joaopaulo/.vscode/files/chess/bin/Debug/netcoreapp3.1/chess.deps.json
+/home/joaopaulo/.vscode/files/chess/bin/Debug/netcoreapp3.1/chess.runtimeconfig.json
+/home/joaopaulo/.vscode/files/chess/bin/Debug/netcoreapp3.1/chess.runtimeconfig.dev.json
+/home/joaopaulo/.vscode/files/chess/bin/Debug/netcoreapp3.1/chess.dll
+/home/joaopaulo/.vscode/files/chess/bin/Debug/netcoreapp3.1/chess.pdb
+/home/joaopaulo/.vscode/files/chess/obj/Debug/netcoreapp3.1/chess.csprojAssemblyReference.cache
+/home/joaopaulo/.vscode/files/chess/obj/Debug/netcoreapp3.1/chess.AssemblyInfoInputs.cache
+/home/joaopaulo/.vscode/files/chess/obj/Debug/netcoreapp3.1/chess.AssemblyInfo.cs
+/home/joaopaulo/.vscode/files/chess/obj/Debug/netcoreapp3.1/chess.csproj.CoreCompileInputs.cache
+/home/joaopaulo/.vscode/files/chess/obj/Debug/netcoreapp3.1/chess.dll
+/home/joaopaulo/.vscode/files/chess/obj/Debug/netcoreapp3.1/chess.pdb
+/home/joaopaulo/.vscode/files/chess/obj/Debug/netcoreapp3.1/chess.genruntimeconfig.cache
