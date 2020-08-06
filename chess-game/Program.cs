@@ -15,6 +15,7 @@ namespace chessGame
       keyboard.placePiece(new Tower(keyboard, Color.white), new Position(0,0));
       keyboard.placePiece(new Tower(keyboard, Color.black), new Position(1,3));
       keyboard.placePiece(new King(keyboard, Color.black), new Position(2,4));
+      keyboard.placePiece(new King(keyboard, Color.black), new Position(6,6));
 
       Screen.printKeyboard(keyboard);   
 
